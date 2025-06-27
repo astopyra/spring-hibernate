@@ -1,0 +1,2 @@
+test numer 2
+To jest testowa zawartość pliku.
